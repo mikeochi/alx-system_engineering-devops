@@ -12,29 +12,17 @@ File: 8-firstdelete-Delete the file betty in /tmp/my_first_directory
 File: 9-firstdirdeletion-Delete the directory my_first_directory that is in the /tmp directory
 File: 10-back-changes the working directory to the previous one.
 
-# Task 11
-List all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+File: 11-lists-List all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+File: 12-file_type-prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
+File: 13-symbolic_link-symbolic link to /bin/ls, named __ls__.
 
-# Task 12
-prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
+File: 14-copy_html-Copy all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+File: 100-lets_move-Move all files beginning with an uppercase letter to the directory /tmp/u.
 
-# Task 13
-symbolic link to /bin/ls, named __ls__.
 
-# Task 14
-Copy all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
-
-# Task 15
-Move all files beginning with an uppercase letter to the directory /tmp/u.
-
-# Task 16 
-Delete all files in the current working directory that end with the character
-
-# Task 17
-Create the directories welcome/, welcome/to/ and welcome/to/school in the current directory
-
-# Task 18
-List all the files and directories of the current directory, separated by commas (,).
+File: 101-clean_emacs-Delete all files in the current working directory that end with the character
+File: 102-tree-Create the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+File: 103-commas-List all the files and directories of the current directory, separated by commas (,).
 
 Directory names should end with a slash (/)
 Files and directories starting with a dot (.) should be listed
