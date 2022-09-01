@@ -6,21 +6,11 @@ File: 3-listfiles-Display current directory contents in a long format
 
 File: 4-listmorefiles-Display current directory contents, including hidden files(starting with .i)
 5-listfilesdigitonly-Display current directory contents in long format, with user and group IDS displayed numerically, and hidden files.
-
-# Task 6
-Create a directory named my_first_directory in the /tmp/ directory
-
-# Task 7
-Move the file betty from /tmp/ to /tmp/my_first_directory 
-
-# Task 8
-Delete the file betty in /tmp/my_first_directory
-
-# Task 9
-Delete the directory my_first_directory that is in the /tmp directory
-
-# Task 10
-changes the working directory to the previous one.
+File: 6-firstdirectory-Create a directory named my_first_directory in the /tmp/ directory
+File: 7-movethatfile-Move the file betty from /tmp/ to /tmp/my_first_directory 
+File: 8-firstdelete-Delete the file betty in /tmp/my_first_directory
+File: 9-firstdirdeletion-Delete the directory my_first_directory that is in the /tmp directory
+File: 10-back-changes the working directory to the previous one.
 
 # Task 11
 List all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
